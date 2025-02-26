@@ -186,6 +186,9 @@ ro.vendor.dolby.brand=OPLUS
 vendor.audio.dolby.ds2.enabled=false
 vendor.audio.dolby.ds2.hardbypass=false
 
+# Disable vsync for cpu rendered apps
+debug.cpurend.vsync=false
+
 # DRM
 drm.service.enabled=true
 
