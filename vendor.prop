@@ -189,6 +189,9 @@ vendor.audio.dolby.ds2.hardbypass=false
 # Disable vsync for cpu rendered apps
 debug.cpurend.vsync=false
 
+# Disable vsync for cpu rendered apps
+debug.cpurend.vsync=false
+
 # DRM
 drm.service.enabled=true
 
